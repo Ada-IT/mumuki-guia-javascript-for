@@ -1,0 +1,1 @@
+¿Cuál de las siguientes opciones es la declaración de un for?

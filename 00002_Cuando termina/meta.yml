@@ -1,0 +1,24 @@
+---
+locale: es
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 'true'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 'false'
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: mayor a 0
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: menor a 0
+  checked: false
+name: Cuando termina
